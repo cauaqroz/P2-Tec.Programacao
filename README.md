@@ -2,7 +2,7 @@
 <p>Nesse Documento contem o gabarito dos teste e o codigo do exercicio 12 - Classe Abstrata e Polimorfismo</p>
 
 ## Codigo Fonte
-[Exercicio - Classe Abstrata e Polimorfismo](https://github.com/cauaqroz/P2-Est.Dados/tree/main/src)
+[Exercicio - Classe Abstrata e Polimorfismo](https://github.com/cauaqroz/P2-Tec.programacao/tree/main/src)
 <br>
 <br>
 <br>
