@@ -140,7 +140,7 @@ métodos Java que não retornam valores devem possuir no parâmetro tipo-dereto
 <P>e) string args.</P>
 
 <strong>
-  Resposta: (C) Certo
+  Resposta: (C) Void
 </strong><br>
 ___________________________________________________________________________________________________________<br>
 <h4>
